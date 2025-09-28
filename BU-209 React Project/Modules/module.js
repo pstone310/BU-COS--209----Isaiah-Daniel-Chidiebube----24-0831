@@ -1,0 +1,1 @@
+export const pleasantry = () =>" Hello my name is Isaiah Daniel!"
